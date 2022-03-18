@@ -26,7 +26,8 @@ h1 {
 
 .counter-box {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
+
 }
 
 p {
