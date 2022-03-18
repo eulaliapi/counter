@@ -1,6 +1,6 @@
 const increaseBtn = document.querySelector('.increase');
 const decreaseBtn = document.querySelector('.decrease');
-const startNumber = document.querySelector('.start-number')
+const startNumber = document.querySelector('.start-number');
 
 
 increaseBtn.addEventListener('click', function() {
@@ -9,4 +9,4 @@ increaseBtn.addEventListener('click', function() {
 
 decreaseBtn.addEventListener('click', function() {
     startNumber.innerText--
-})
+});
