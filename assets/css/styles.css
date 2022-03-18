@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #bf93dd;
+    display: flex;
+    justify-content: center;
+}
+
+.counter {
+    border: 1px solid #000000;
+    background-color: #2f1142d7;
+    border-radius: 15px;
+    padding: 20px;
+    margin-top: 20vh;
+    width: 300px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.counter-box {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 2rem;
+    margin: 0 10px;
+}
+
+button {
+    cursor: pointer;
+    font-size: 2rem;
+    width: 4rem;
+}
