@@ -1,7 +1,7 @@
 # Counter
 
 ## About the project
- As asked this project is a simple application built with JavaScript that serves as a counter. </br>
+ As asked this project is a simple application that serves as a counter built with JavaScript. </br>
  Starting from 0, the user can click on the buttons to increase or decrease by one its value.
  
  ## Links
